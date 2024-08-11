@@ -1,0 +1,592 @@
+{
+    "frames": {
+        "double/doublebg": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 1232,
+                "h": 700
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1232,
+                "h": 700
+            },
+            "sourceSize": {
+                "w": 1232,
+                "h": 700
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "double/gamble_card_1": {
+            "frame": {
+                "x": 1234,
+                "y": 0,
+                "w": 210,
+                "h": 275
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 210,
+                "h": 275
+            },
+            "sourceSize": {
+                "w": 210,
+                "h": 275
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "double/gamble_card_2": {
+            "frame": {
+                "x": 1070,
+                "y": 702,
+                "w": 210,
+                "h": 275
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 210,
+                "h": 275
+            },
+            "sourceSize": {
+                "w": 210,
+                "h": 275
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "double/gamble_card_3": {
+            "frame": {
+                "x": 858,
+                "y": 702,
+                "w": 210,
+                "h": 275
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 210,
+                "h": 275
+            },
+            "sourceSize": {
+                "w": 210,
+                "h": 275
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "double/gamble_card_4": {
+            "frame": {
+                "x": 434,
+                "y": 702,
+                "w": 210,
+                "h": 275
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 210,
+                "h": 275
+            },
+            "sourceSize": {
+                "w": 210,
+                "h": 275
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "double/gamblebutton_b1": {
+            "frame": {
+                "x": 0,
+                "y": 798,
+                "w": 215,
+                "h": 94
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 215,
+                "h": 94
+            },
+            "sourceSize": {
+                "w": 215,
+                "h": 94
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "double/gamblebutton_b2": {
+            "frame": {
+                "x": 0,
+                "y": 894,
+                "w": 215,
+                "h": 94
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 215,
+                "h": 94
+            },
+            "sourceSize": {
+                "w": 215,
+                "h": 94
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "double/gamblebutton_b3": {
+            "frame": {
+                "x": 0,
+                "y": 702,
+                "w": 215,
+                "h": 94
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 215,
+                "h": 94
+            },
+            "sourceSize": {
+                "w": 215,
+                "h": 94
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "double/gamblebutton_br1": {
+            "frame": {
+                "x": 1234,
+                "y": 571,
+                "w": 95,
+                "h": 96
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 95,
+                "h": 96
+            },
+            "sourceSize": {
+                "w": 95,
+                "h": 96
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "double/gamblebutton_br2": {
+            "frame": {
+                "x": 1234,
+                "y": 277,
+                "w": 95,
+                "h": 96
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 95,
+                "h": 96
+            },
+            "sourceSize": {
+                "w": 95,
+                "h": 96
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "double/gamblebutton_c1": {
+            "frame": {
+                "x": 1331,
+                "y": 277,
+                "w": 95,
+                "h": 96
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 95,
+                "h": 96
+            },
+            "sourceSize": {
+                "w": 95,
+                "h": 96
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "double/gamblebutton_c2": {
+            "frame": {
+                "x": 1282,
+                "y": 865,
+                "w": 95,
+                "h": 96
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 95,
+                "h": 96
+            },
+            "sourceSize": {
+                "w": 95,
+                "h": 96
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "double/gamblebutton_h1": {
+            "frame": {
+                "x": 1282,
+                "y": 669,
+                "w": 95,
+                "h": 96
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 95,
+                "h": 96
+            },
+            "sourceSize": {
+                "w": 95,
+                "h": 96
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "double/gamblebutton_h2": {
+            "frame": {
+                "x": 1282,
+                "y": 767,
+                "w": 95,
+                "h": 96
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 95,
+                "h": 96
+            },
+            "sourceSize": {
+                "w": 95,
+                "h": 96
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "double/gamblebutton_r1": {
+            "frame": {
+                "x": 217,
+                "y": 702,
+                "w": 215,
+                "h": 94
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 215,
+                "h": 94
+            },
+            "sourceSize": {
+                "w": 215,
+                "h": 94
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "double/gamblebutton_r2": {
+            "frame": {
+                "x": 217,
+                "y": 895,
+                "w": 215,
+                "h": 94
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 215,
+                "h": 94
+            },
+            "sourceSize": {
+                "w": 215,
+                "h": 94
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "double/gamblebutton_r3": {
+            "frame": {
+                "x": 217,
+                "y": 798,
+                "w": 215,
+                "h": 95
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 215,
+                "h": 95
+            },
+            "sourceSize": {
+                "w": 215,
+                "h": 95
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "double/gamblebutton_s1": {
+            "frame": {
+                "x": 1234,
+                "y": 473,
+                "w": 95,
+                "h": 96
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 95,
+                "h": 96
+            },
+            "sourceSize": {
+                "w": 95,
+                "h": 96
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "double/gamblebutton_s2": {
+            "frame": {
+                "x": 1234,
+                "y": 375,
+                "w": 95,
+                "h": 96
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 95,
+                "h": 96
+            },
+            "sourceSize": {
+                "w": 95,
+                "h": 96
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "double/gamblecardbg": {
+            "frame": {
+                "x": 646,
+                "y": 702,
+                "w": 210,
+                "h": 275
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 210,
+                "h": 275
+            },
+            "sourceSize": {
+                "w": 210,
+                "h": 275
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "double/tiny_card_1": {
+            "frame": {
+                "x": 1379,
+                "y": 600,
+                "w": 72,
+                "h": 73
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 72,
+                "h": 73
+            },
+            "sourceSize": {
+                "w": 72,
+                "h": 73
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "double/tiny_card_2": {
+            "frame": {
+                "x": 1331,
+                "y": 525,
+                "w": 72,
+                "h": 73
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 72,
+                "h": 73
+            },
+            "sourceSize": {
+                "w": 72,
+                "h": 73
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "double/tiny_card_3": {
+            "frame": {
+                "x": 1331,
+                "y": 450,
+                "w": 72,
+                "h": 73
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 72,
+                "h": 73
+            },
+            "sourceSize": {
+                "w": 72,
+                "h": 73
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "double/tiny_card_4": {
+            "frame": {
+                "x": 1331,
+                "y": 375,
+                "w": 72,
+                "h": 73
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 72,
+                "h": 73
+            },
+            "sourceSize": {
+                "w": 72,
+                "h": 73
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    },
+    "meta": {
+        "app": "http://www.codeandweb.com/texturepacker",
+        "version": "1.0",
+        "image": "double.png",
+        "format": "RGB888",
+        "size": {
+            "w": 2048,
+            "h": 1024
+        },
+        "scale": "1",
+        "smartupdate": "$TexturePacker:SmartUpdate:670ff825af1f9ae27e1e274ef370416b:3cc23596171d46f15e3aa056dfa323a3:8d9452e8da0384041151f7efc69b4489$"
+    }
+}

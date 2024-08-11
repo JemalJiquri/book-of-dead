@@ -1,0 +1,929 @@
+{
+    "STOP": {
+        "str": "STOP",
+        "fontFamily": "Arial",
+        "fontSize": 40,
+        "fill": [
+            "#b78d3b",
+            "#e9ddb5",
+            "#b78d3b"
+        ],
+        "align": "right",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "SPIN": {
+        "str": "SPIN",
+        "fontFamily": "Arial",
+        "fontSize": 40,
+        "fill": [
+            "#b78d3b",
+            "#e9ddb5",
+            "#b78d3b"
+        ],
+        "align": "right",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "GAMBLE": {
+        "str": "GAMBLE",
+        "fontFamily": "Arial",
+        "fontSize": 20,
+        "fill": "#3a2c14",
+        "align": "right",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "COLLECT": {
+        "str": "COLLECT",
+        "fontFamily": "Arial",
+        "fontSize": 20,
+        "fill": "#3a2c14",
+        "align": "right",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "MAXBETBUTTON": {
+        "str": "BET MAX",
+        "fontFamily": "Arial",
+        "fontSize": 20,
+        "fill": "#3a2c14",
+        "align": "right",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "PAYTABLEBUTTON": {
+        "str": "PAYTABLE",
+        "fontFamily": "Arial",
+        "fontSize": 20,
+        "fill": "#3a2c14",
+        "align": "right",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "AUTOPLAYBUTTON": {
+        "str": "AUTO PLAY",
+        "fontFamily": "Arial",
+        "fontSize": 20,
+        "fill": "#3a2c14",
+        "align": "right",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "LINETEXT": {
+        "str": "LINES \n%d",
+        "fontFamily": "Arial",
+        "fontSize": 18,
+        "fill": "#e3d994",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "BETTEXT": {
+        "str": "COINS\n%d",
+        "fontFamily": "Arial",
+        "fontSize": 18,
+        "fill": "#e3d994",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "DOUBLETEXTX": {
+        "str": "Choose Color (pays x2) or Suit (pays x4)",
+        "fontFamily": "Arial",
+        "fontSize": 35,
+        "fill": "#e3d994",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "DOUBLECOLORTEXT": {
+        "str": "COLOR PAYS",
+        "fontFamily": "Arial",
+        "fontSize": 20,
+        "fill": "#e3d994",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "DOUBLESUITTEXT": {
+        "str": "SUIT PAYS",
+        "fontFamily": "Arial",
+        "fontSize": 20,
+        "fill": "#e3d994",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "DOUBLEPREVIOUSTEXT": {
+        "str": "PREVIOUS CARDS",
+        "fontFamily": "Arial",
+        "fontSize": 35,
+        "fill": "#e3d994",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "DOUBLEWINTEXT": {
+        "str": "%d",
+        "fontFamily": "Arial",
+        "fontSize": 35,
+        "fill": "#e3d994",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "DOUBLEREDBTNTEXT": {
+        "str": "RED",
+        "fontFamily": "Arial",
+        "fontSize": 35,
+        "fill": "#e3d994",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "DOUBLEBLECKBTNTEXT": {
+        "str": "BLACK",
+        "fontFamily": "Arial",
+        "fontSize": 35,
+        "fill": "#e3d994",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "MENUPAGEATEXA": {
+        "str": "3 or more scattered Books trigger 10 free spins!",
+        "fontFamily": "Arial",
+        "fontSize": 17,
+        "fill": "#e3d994",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "MENUPAGEATEXB": {
+        "str": "SCATTER",
+        "fontFamily": "Arial",
+        "fontSize": 32,
+        "fill": "#e3d994",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "MENUPAGEATEXC": {
+        "str": "The Book is WILD! It can substitute for any other symbol to form\na winning combo. The Book is also a SCATTER and will pay\nanywhere on the reels. \n\nScatter wins are multiplaied by the total bet staked and are added to\nthe payline wins",
+        "fontFamily": "Arial",
+        "fontSize": 17,
+        "fill": "#e3d994",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "MENUPAGEATEXD": {
+        "str": "A special EXPANDING SYMBOL is randomly chosen\nto help you win more on free spins. Watch it exand to\ncover the reel when more prizes are in store! Symbols\ncan appear anywhere along an active line to win!",
+        "fontFamily": "Arial",
+        "fontSize": 17,
+        "fill": "#e3d994",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "MENUPAGEATEXE": {
+        "str": "WIN UP TO 50000 COINS!",
+        "fontFamily": "Arial",
+        "fontSize": 38,
+        "fill": "#e3d994",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "MENUPAGEATEXF": {
+        "str": "All wins multiplied by bet staked per line except for SCATTER\nAll wins pay left to right and right to left except SCATTERS which pay any.\nOnly highest win paid per selected line.",
+        "fontFamily": "Arial",
+        "fontSize": 19,
+        "fill": "#e3d994",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "MENUMOBPAGEATESA": {
+        "str": "SOUND SETTINGS",
+        "fontFamily": "Arial",
+        "fontSize": 32,
+        "fill": "#ffffff",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "MENUMOBPAGEATESB": {
+        "str": "Game Sounds",
+        "fontFamily": "Arial",
+        "fontSize": 28,
+        "fill": "#ffffff",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "MENUMOBPAGESA": {
+        "str": "SPIN SETTINGS",
+        "fontFamily": "Arial",
+        "fontSize": 32,
+        "fill": "#ffffff",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "MENUMOBPAGESB": {
+        "str": "Autoplay",
+        "fontFamily": "Arial",
+        "fontSize": 28,
+        "fill": "#ffffff",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "MENUMOBPAGESC": {
+        "str": "Quick spin",
+        "fontFamily": "Arial",
+        "fontSize": 28,
+        "fill": "#ffffff",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "MENUMOBPAGESD": {
+        "str": "Left Hand Mode",
+        "fontFamily": "Arial",
+        "fontSize": 28,
+        "fill": "#ffffff",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "MENUMOBPAGEBA": {
+        "str": "BET SETTINGS",
+        "fontFamily": "Arial",
+        "fontSize": 32,
+        "fill": "#ffffff",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "MENUMOBPAGEPA": {
+        "str": "PAYTABLE",
+        "fontFamily": "Arial",
+        "fontSize": 32,
+        "fill": "#ffffff",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "MENUMOBPAGERA": {
+        "str": "GAME RULES",
+        "fontFamily": "Arial",
+        "fontSize": 32,
+        "fill": "#ffffff",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "CREDITBTNTEXT": {
+        "str": "COIN VALUE",
+        "fontFamily": "Arial",
+        "fontSize": 16,
+        "fill": "#3a2c14",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": -10
+    },
+    "CREDITBTNTEXTA": {
+        "str": "%c %d",
+        "fontFamily": "Arial",
+        "fontSize": 16,
+        "fill": "#3a2c14",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 10
+    },
+    "COINSBARTEXT": {
+        "str": "COINS %d",
+        "fontFamily": "Arial",
+        "fontSize": 16,
+        "fill": "#e3d994",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "BETBARTEXT": {
+        "str": "BET: ",
+        "fontFamily": "Arial",
+        "fontSize": 16,
+        "fill": "#e3d994",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "BETBARTEXTBET": {
+        "str": "%d",
+        "fontFamily": "Arial",
+        "fontSize": 16,
+        "fill": "#e3d994",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "TEST": {
+        "str": "CANCEL",
+        "fontFamily": "Arial",
+        "fontSize": 44,
+        "fill": "white",
+        "align": "right",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "INFO_BIG_LINE": {
+        "str": "PRESS SPIN TO BEGIN",
+        "fontFamily": "Arial",
+        "fontSize": 26,
+        "fill": "#e3d994",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "INFO_SMALL_LINE": {
+        "str": "PRESS SPIN TO BEGIN",
+        "fontFamily": "Arial",
+        "fontSize": 16,
+        "fill": "#e3d994",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "BONUS_WIN_AMT": {
+        "str": "%d",
+        "fontFamily": "Arial",
+        "fontSize": 26,
+        "fill": [
+            "#eebb22",
+            "#eeee99",
+            "#dd9911"
+        ],
+        "align": "right",
+        "fontWeight": "bold",
+        "stroke": "#662211",
+        "strokeThickness": 3,
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "BONUS_INFO_WIN": {
+        "str": "WIN:",
+        "fontFamily": "Arial",
+        "fontSize": 26,
+        "fill": "#e3d994",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "BONUS_INFO_COINS": {
+        "str": "COINS",
+        "fontFamily": "Arial",
+        "fontSize": 26,
+        "fill": "#e3d994",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "AUTOPLAYHEADER": {
+        "str": "AUTO PLAY",
+        "fontFamily": "Arial",
+        "fontSize": 26,
+        "fill": "#e3d994",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "AUTOPLAYNUM": {
+        "str": "",
+        "fontFamily": "Arial",
+        "fontSize": 20,
+        "fill": "#000000",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "AUTOPLAYSTOP": {
+        "str": "Stop Autoplay",
+        "fontFamily": "Arial",
+        "fontSize": 15,
+        "fill": "#ffffff",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "AUTOPLAYSTOPWIN": {
+        "str": "On any win",
+        "fontFamily": "Arial",
+        "fontSize": 14,
+        "fill": "#ffffff",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "AUTOPLAYSTOPFREE": {
+        "str": "If free spin are won",
+        "fontFamily": "Arial",
+        "fontSize": 14,
+        "fill": "#ffffff",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "AUTOPLAYSTOPSINGLE": {
+        "str": "If single win exceeds",
+        "fontFamily": "Arial",
+        "fontSize": 14,
+        "fill": "#ffffff",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "AUTOPLAYSTOPBALINC": {
+        "str": "If balance increases by",
+        "fontFamily": "Arial",
+        "fontSize": 14,
+        "fill": "#ffffff",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "AUTOPLAYSTOPBALDEC": {
+        "str": "If balance decreases by",
+        "fontFamily": "Arial",
+        "fontSize": 14,
+        "fill": "#ffffff",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "AUTOPLAYSTOPY": {
+        "str": "",
+        "fontFamily": "Arial",
+        "fontSize": 14,
+        "fill": "#ffc41d",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "AUTOPLAYOK": {
+        "str": "OK",
+        "fontFamily": "Arial",
+        "fontSize": 14,
+        "fill": "#ffffff",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "AUTOPLAYCA": {
+        "str": "CANCEL",
+        "fontFamily": "Arial",
+        "fontSize": 14,
+        "fill": "#ffffff",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "AUTOBTNTXT": {
+        "str": "AUTO PLAY",
+        "fontFamily": "Arial",
+        "fontSize": 16,
+        "fill": "#e3d994",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": -13
+    },
+    "AUTOBTNTXT2": {
+        "str": "10",
+        "fontFamily": "Arial",
+        "fontSize": 30,
+        "fill": "#e3d994",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 13
+    },
+    "SB_TXT": {
+        "str": "%s: %d",
+        "fontFamily": "Arial",
+        "fontSize": 16,
+        "fill": "#cecece",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 13
+    },
+    "SETTINGSSOUND": {
+        "str": "Sound",
+        "fontFamily": "Arial",
+        "fontSize": 14,
+        "fill": "#ffffff",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "SETTINGSFAST": {
+        "str": "Fast play",
+        "fontFamily": "Arial",
+        "fontSize": 14,
+        "fill": "#ffffff",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "SETTINGSAUTO": {
+        "str": "Auto adjust bet",
+        "fontFamily": "Arial",
+        "fontSize": 14,
+        "fill": "#ffffff",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "SETTINGSSPACE": {
+        "str": "Spacebar to spin",
+        "fontFamily": "Arial",
+        "fontSize": 14,
+        "fill": "#ffffff",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "UPDOWNPLUS": {
+        "str": "+",
+        "fontFamily": "Arial",
+        "fontSize": 14,
+        "fill": "#000000",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 3
+    },
+    "UPDOWNMINUS": {
+        "str": "-",
+        "fontFamily": "Arial",
+        "fontSize": 14,
+        "fill": "#000000",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": -3
+    },
+    "UPDOWNH1": {
+        "str": "%s",
+        "fontFamily": "Arial",
+        "fontSize": 9,
+        "fill": "#ffffff",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "UPDOWNH2": {
+        "str": "%s",
+        "fontFamily": "Arial",
+        "fontSize": 20,
+        "fill": "#e3d994",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 13
+    },
+    "MOB_AUTO_TEXT": {
+        "str": "1000",
+        "fontFamily": "Arial",
+        "fontSize": 20,
+        "fill": "#FFFFFF",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "MOB_BOTTOM_TEXT": {
+        "str": "",
+        "fontFamily": "Arial",
+        "fontSize": 15,
+        "fill": "#bbbbbb",
+        "align": "center",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "MOB_MENU_HEAD": {
+        "str": "Book of Dead ",
+        "fontFamily": "Arial",
+        "fontSize": 10,
+        "fill": "#ffffff",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "MOB_MENU_TAB_BETS": {
+        "str": "",
+        "fontFamily": "Arial",
+        "fontSize": 13,
+        "fill": "#ffffff",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "MOB_MENU_SLIDER": {
+        "str": "",
+        "fontFamily": "Arial",
+        "fontSize": 13,
+        "fill": "#000000",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "MOB_MENU_SLIDER_MIN": {
+        "str": "",
+        "fontFamily": "Arial",
+        "fontSize": 14,
+        "fill": "#818181",
+        "align": "right",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "MOB_MENU_SLIDER_MAX": {
+        "str": "",
+        "fontFamily": "Arial",
+        "fontSize": 14,
+        "fill": "#818181",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "MOB_MENU_BET_TAB_SMALL_L": {
+        "str": "",
+        "fontFamily": "Arial",
+        "fontSize": 12,
+        "fill": "#000000",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "MOB_MENU_BET_TAB_SMALL_R": {
+        "str": "",
+        "fontFamily": "Arial",
+        "fontSize": 12,
+        "fill": "#000000",
+        "align": "right",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "MOB_MENU_BET_TAB_BIG": {
+        "str": "",
+        "fontFamily": "Arial",
+        "fontSize": 15,
+        "fill": "#000000",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "MOB_AUTOPLAYSTOPWIN": {
+        "str": "On any win",
+        "fontFamily": "Arial",
+        "fontSize": 14,
+        "fill": "#000000",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "MOB_AUTOPLAYSTOPFREE": {
+        "str": "If free spin are won",
+        "fontFamily": "Arial",
+        "fontSize": 14,
+        "fill": "#000000",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "MOB_SETT_SOUND": {
+        "str": "Sound",
+        "fontFamily": "Arial",
+        "fontSize": 14,
+        "fill": "#000000",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "MOB_SETT_LEFT": {
+        "str": "Left Hand Mode",
+        "fontFamily": "Arial",
+        "fontSize": 14,
+        "fill": "#000000",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "MOB_SETT_FAST": {
+        "str": "Fast Play",
+        "fontFamily": "Arial",
+        "fontSize": 14,
+        "fill": "#000000",
+        "align": "left",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "MOB_BOTTOM_TEXT_W": {
+        "str": "",
+        "fontFamily": "Arial",
+        "fontSize": 15,
+        "fill": "#ffffff",
+        "align": "left",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "MOB_BOTTOM_TEXT_Y": {
+        "str": "",
+        "fontFamily": "Arial",
+        "fontSize": 15,
+        "fill": "#f6cf52",
+        "align": "left",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "MOB_INFO_BIG_LINE": {
+        "str": "PRESS SPIN TO BEGIN",
+        "fontFamily": "Arial",
+        "fontSize": 16,
+        "fill": "#ffffff",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0,
+        "dropShadow": true,
+        "dropShadowAngle": 0,
+        "dropShadowBlur": 3,
+        "dropShadowColor": "#000000",
+        "dropShadowDistance": 0
+    },
+    "MOB_INFO_SMALL_LINE": {
+        "str": "PRESS SPIN TO BEGIN",
+        "fontFamily": "Arial",
+        "fontSize": 16,
+        "fill": "#ffffff",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0,
+        "dropShadow": true,
+        "dropShadowAngle": 0,
+        "dropShadowBlur": 3,
+        "dropShadowColor": "#000000",
+        "dropShadowDistance": 0
+    },
+    "MOB_BONUS_INFO_WIN": {
+        "str": "WIN:",
+        "fontFamily": "Arial",
+        "fontSize": 16,
+        "fill": "#ffffff",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0,
+        "dropShadow": true,
+        "dropShadowAngle": 0,
+        "dropShadowBlur": 3,
+        "dropShadowColor": "#000000",
+        "dropShadowDistance": 0
+    },
+    "MOB_BONUS_INFO_COINS": {
+        "str": "COINS",
+        "fontFamily": "Arial",
+        "fontSize": 16,
+        "fill": "#ffffff",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0,
+        "dropShadow": true,
+        "dropShadowAngle": 0,
+        "dropShadowBlur": 3,
+        "dropShadowColor": "#000000",
+        "dropShadowDistance": 0
+    },
+    "MOB_BONUS_WIN_AMT": {
+        "str": "%d",
+        "fontFamily": "Arial",
+        "fontSize": 16,
+        "fill": [
+            "#eebb22",
+            "#eeee99",
+            "#dd9911"
+        ],
+        "align": "right",
+        "fontWeight": "bold",
+        "stroke": "#662211",
+        "strokeThickness": 1,
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "MOB_GAMBLE": {
+        "str": "GAMBLE",
+        "fontFamily": "Arial",
+        "fontSize": 20,
+        "fill": "#ffffff",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "MOB_COLLECT": {
+        "str": "COLLECT",
+        "fontFamily": "Arial",
+        "fontSize": 20,
+        "fill": "#ffffff",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "MOB_AUTO": {
+        "str": "100",
+        "fontFamily": "Arial",
+        "fontSize": 35,
+        "fill": "#ffffff",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    }
+}

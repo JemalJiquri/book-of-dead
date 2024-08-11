@@ -1,0 +1,376 @@
+{
+    "frames": {
+        "bonus_book_anim/banner": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 1176,
+                "h": 835
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 1176,
+                "h": 835
+            },
+            "sourceSize": {
+                "w": 1176,
+                "h": 835
+            },
+            "pivot": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "bonus_book_anim/book_01": {
+            "frame": {
+                "x": 311,
+                "y": 837,
+                "w": 228,
+                "h": 222
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 228,
+                "h": 222
+            },
+            "sourceSize": {
+                "w": 228,
+                "h": 222
+            },
+            "pivot": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "bonus_book_anim/book_02": {
+            "frame": {
+                "x": 311,
+                "y": 1061,
+                "w": 208,
+                "h": 205
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 208,
+                "h": 205
+            },
+            "sourceSize": {
+                "w": 208,
+                "h": 205
+            },
+            "pivot": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "bonus_book_anim/book_03": {
+            "frame": {
+                "x": 541,
+                "y": 837,
+                "w": 204,
+                "h": 228
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 204,
+                "h": 228
+            },
+            "sourceSize": {
+                "w": 204,
+                "h": 228
+            },
+            "pivot": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "bonus_book_anim/book_04": {
+            "frame": {
+                "x": 548,
+                "y": 1067,
+                "w": 198,
+                "h": 241
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 198,
+                "h": 241
+            },
+            "sourceSize": {
+                "w": 198,
+                "h": 241
+            },
+            "pivot": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "bonus_book_anim/book_05": {
+            "frame": {
+                "x": 548,
+                "y": 1310,
+                "w": 192,
+                "h": 249
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 192,
+                "h": 249
+            },
+            "sourceSize": {
+                "w": 192,
+                "h": 249
+            },
+            "pivot": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "bonus_book_anim/book_06": {
+            "frame": {
+                "x": 553,
+                "y": 1561,
+                "w": 186,
+                "h": 252
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 186,
+                "h": 252
+            },
+            "sourceSize": {
+                "w": 186,
+                "h": 252
+            },
+            "pivot": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "bonus_book_anim/book_07": {
+            "frame": {
+                "x": 741,
+                "y": 1561,
+                "w": 180,
+                "h": 250
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 180,
+                "h": 250
+            },
+            "sourceSize": {
+                "w": 180,
+                "h": 250
+            },
+            "pivot": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "bonus_book_anim/book_08": {
+            "frame": {
+                "x": 309,
+                "y": 1274,
+                "w": 237,
+                "h": 258
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 237,
+                "h": 258
+            },
+            "sourceSize": {
+                "w": 237,
+                "h": 258
+            },
+            "pivot": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "bonus_book_anim/book_09": {
+            "frame": {
+                "x": 293,
+                "y": 1720,
+                "w": 258,
+                "h": 256
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 258,
+                "h": 256
+            },
+            "sourceSize": {
+                "w": 258,
+                "h": 256
+            },
+            "pivot": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "bonus_book_anim/book_10": {
+            "frame": {
+                "x": 0,
+                "y": 1720,
+                "w": 291,
+                "h": 237
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 291,
+                "h": 237
+            },
+            "sourceSize": {
+                "w": 291,
+                "h": 237
+            },
+            "pivot": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "bonus_book_anim/book_11": {
+            "frame": {
+                "x": 0,
+                "y": 1492,
+                "w": 303,
+                "h": 226
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 303,
+                "h": 226
+            },
+            "sourceSize": {
+                "w": 303,
+                "h": 226
+            },
+            "pivot": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "bonus_book_anim/book_12": {
+            "frame": {
+                "x": 0,
+                "y": 837,
+                "w": 309,
+                "h": 219
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 309,
+                "h": 219
+            },
+            "sourceSize": {
+                "w": 309,
+                "h": 219
+            },
+            "pivot": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "bonus_book_anim/book_13": {
+            "frame": {
+                "x": 0,
+                "y": 1274,
+                "w": 307,
+                "h": 216
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 307,
+                "h": 216
+            },
+            "sourceSize": {
+                "w": 307,
+                "h": 216
+            },
+            "pivot": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "bonus_book_anim/book_14": {
+            "frame": {
+                "x": 0,
+                "y": 1058,
+                "w": 309,
+                "h": 214
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 309,
+                "h": 214
+            },
+            "sourceSize": {
+                "w": 309,
+                "h": 214
+            },
+            "pivot": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        }
+    },
+    "meta": {
+        "app": "http://www.codeandweb.com/texturepacker",
+        "version": "1.0",
+        "image": "bonus_book_anim.png",
+        "format": "RGB888",
+        "size": {
+            "w": 2048,
+            "h": 2048
+        },
+        "scale": "1",
+        "smartupdate": "$TexturePacker:SmartUpdate:670ff825af1f9ae27e1e274ef370416b:3cc23596171d46f15e3aa056dfa323a3:8d9452e8da0384041151f7efc69b4489$"
+    }
+}

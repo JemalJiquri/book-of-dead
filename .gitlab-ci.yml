@@ -1,0 +1,17 @@
+stages: 
+  - process-demo 
+
+variables: 
+    ENVIRONMENT: demo 
+
+process_back_dev: 
+    stage: process-demo 
+    tags: 
+      - demo 
+    only: 
+      - demo 
+    environment: 
+        name: demo 
+        url: https://demo-x.betsense.ge/bookofdead 
+    script: 
+      - Copy-Item build\* C:\inetpub\games.betsense.ge\games\playngo\bookofdead1 -Force -Recurse

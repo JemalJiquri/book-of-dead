@@ -1,0 +1,249 @@
+{
+    "BOD_LUCK": {
+        "str": "GOOD LUCK"
+    },
+    "BOD_WIN": {
+        "str": "WIN: %d coins"
+    },
+    "BOD_WIN_GAMBLE_LIMIT": {
+        "str": "YOU WIN, Gamble Limit Reached"
+    },
+    "BOD_WIN_LINE": {
+        "str": "Won %d coins on line %l"
+    },
+    "BOD_FREE": {
+        "str": "FREE GAME %d OF %l",
+        "fontFamily": "Arial",
+        "fontSize": 36,
+        "fill": "#e3d994",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "SPLASH_FREE": {
+        "str": "FREE SPINS",
+        "fontFamily": "Arial",
+        "fontSize": 56,
+        "fill": [
+            "#483119",
+            "#745624",
+            "#483119"
+        ],
+        "align": "center",
+        "stroke": "#361d11",
+        "strokeThickness": 3,
+        "fontWeight": "bold",
+        "dropShadow": true,
+        "dropShadowAlpha": 0.2,
+        "dropShadowAngle": 0,
+        "dropShadowBlur": 15,
+        "dropShadowDistance": 0,
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "SPLASH_FREE_DESC": {
+        "str": "3 or more SCATTER Books trigger 10 FREE SPINS!",
+        "fontFamily": "Arial",
+        "fontSize": 35,
+        "fill": "#55301b",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0,
+        "wordWrap": true,
+        "wordWrapWidth": 500,
+        "dropShadow": true,
+        "dropShadowColor": "#ffffff",
+        "dropShadowAlpha": 0.4,
+        "dropShadowAngle": 1.1,
+        "dropShadowBlur": 1,
+        "dropShadowDistance": 5
+    },
+    "SPLASH_FREE_DESC2": {
+        "str": "Win more on free spins with special EXPANDING symbol!",
+        "fontFamily": "Arial",
+        "fontSize": 35,
+        "fill": "#55301b",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0,
+        "wordWrap": true,
+        "wordWrapWidth": 500,
+        "dropShadow": true,
+        "dropShadowColor": "#ffffff",
+        "dropShadowAlpha": 0.4,
+        "dropShadowAngle": 1.1,
+        "dropShadowBlur": 1,
+        "dropShadowDistance": 5
+    },
+    "SPLASH_CONT": {
+        "str": "CONTINUE",
+        "fontFamily": "Arial",
+        "fontSize": 35,
+        "fill": "#e3d994",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "SPLASH_FREE_CB2": {
+        "str": "Dont show again",
+        "fontFamily": "Arial",
+        "fontSize": 35,
+        "fill": "#e3d994",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "PAY_TABLE_WIN": {
+        "str": "",
+        "fontFamily": "Arial",
+        "fontSize": 32,
+        "fill": "#ffffff",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "PAY_TABLE_WIN2": {
+        "str": "",
+        "fontFamily": "Arial",
+        "fontSize": 32,
+        "fill": "#e3d994",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "BONUS_WON_TXT": {
+        "str": "Won %s coins on free spins",
+        "fontFamily": "Arial",
+        "fontSize": 32,
+        "fill": "#e3d994",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "ERRORCLOSE": {
+        "str": "CLOSE",
+        "fontFamily": "Arial",
+        "fontSize": 14,
+        "fill": "#ffffff",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "ERRORMSG": {
+        "str": "AUTO PLAY",
+        "fontFamily": "Arial",
+        "fontSize": 16,
+        "fill": "#ffffff",
+        "align": "center",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "ERRORMSG2": {
+        "str": "AUTO PLAY",
+        "fontFamily": "Arial",
+        "fontSize": 22,
+        "fill": "#ffffff",
+        "align": "center",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "FREE1": {
+        "str": "You have been awarded free rounds.",
+        "fontFamily": "Arial",
+        "fontSize": 38,
+        "fontWeight": "bold",
+        "fill": "#4b4b4b",
+        "align": "center",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "FREE2": {
+        "str": "Please choose for below to activate your reward",
+        "fontFamily": "Arial",
+        "fontSize": 36,
+        "fontWeight": "bold",
+        "fill": "#4b4b4b",
+        "align": "center",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "FREE3": {
+        "str": "%s Rounds",
+        "fontFamily": "Arial",
+        "fontSize": 26,
+        "fontWeight": "bold",
+        "fill": "#ffffff",
+        "align": "center",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "FREE4": {
+        "str": "%s %c/ round",
+        "fontFamily": "Arial",
+        "fontSize": 26,
+        "fontWeight": "bold",
+        "fill": "#ffffff",
+        "align": "center",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "FREE5": {
+        "str": "ACTIVATE NOW",
+        "fontFamily": "Arial",
+        "fontSize": 32,
+        "fontWeight": "bold",
+        "fill": "#4b4b4b",
+        "align": "center",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "FREE6": {
+        "str": "Total value: %s %c",
+        "fontFamily": "Arial",
+        "fontSize": 38,
+        "fontWeight": "bold",
+        "fill": "#4b4b4b",
+        "align": "center",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "FREE7": {
+        "str": "USE LATER",
+        "fontFamily": "Arial",
+        "fontSize": 22,
+        "fontWeight": "bold",
+        "fill": "#4b4b4b",
+        "align": "center",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "FREE8": {
+        "str": "NO THANKS",
+        "fontFamily": "Arial",
+        "fontWeight": "bold",
+        "fontSize": 22,
+        "fill": "#4b4b4b",
+        "align": "center",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "FREE9": {
+        "str": "0/0",
+        "fontFamily": "Arial",
+        "fontSize": 46,
+        "fontWeight": "bold",
+        "fill": "#ffffff",
+        "align": "center",
+        "offsetX": 0,
+        "offsetY": 0
+    }
+}

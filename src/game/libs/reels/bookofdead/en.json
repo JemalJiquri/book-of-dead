@@ -1,0 +1,80 @@
+{
+    "RHEEL_CONGRAT": {
+        "str": "CONGRATULATIONS!",
+        "fontFamily": "Arial",
+        "fontSize": 40,
+        "fill": "#5a2302",
+        "align": "center",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "RHEEL_YOUWON": {
+        "str": "You won %s",
+        "fontFamily": "Arial",
+        "fontSize": 50,
+        "fill": "#5a2302",
+        "fontWeight": "bold",
+        "align": "center",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "RHEEL_FREE": {
+        "str": "Free Spins",
+        "fontFamily": "Arial",
+        "fontSize": 50,
+        "fill": "#5a2302",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "RHEEL_YOUWONADD": {
+        "str": "You won %s additional",
+        "fontFamily": "Arial",
+        "fontSize": 60,
+        "fill": "#594125",
+        "fontWeight": "bold",
+        "align": "center",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "RHEEL_TOTAL_WIN": {
+        "str": "Total Win",
+        "fontFamily": "Arial",
+        "fontSize": 50,
+        "fill": "#5a2302",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "RHEEL_TOTAL_WIN_VAL": {
+        "str": "%s",
+        "fontFamily": "Arial",
+        "fontSize": 50,
+        "fill": "#5a2302",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "RHEEL_FREEADD": {
+        "str": "Free Spins",
+        "fontFamily": "Arial",
+        "fontSize": 60,
+        "fill": "#594125",
+        "align": "center",
+        "fontWeight": "bold",
+        "offsetX": 0,
+        "offsetY": 0
+    },
+    "RHEEL_PRESS": {
+        "str": "PRESS SPIN TO BEGIN",
+        "fontFamily": "Arial",
+        "fontSize": 30,
+        "fill": "#5a2302",
+        "align": "right",
+        "offsetX": 0,
+        "offsetY": 0
+    }
+}

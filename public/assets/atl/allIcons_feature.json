@@ -1,0 +1,448 @@
+{
+    "frames": {
+        "allIcons_feature/icon_feature_0000": {
+            "frame": {
+                "x": "224",
+                "y": "1568",
+                "w": "222",
+                "h": "222"
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": "222",
+                "h": "222"
+            },
+            "sourceSize": {
+                "w": "222",
+                "h": "222"
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "allIcons_feature/icon_feature_0001": {
+            "frame": {
+                "x": "224",
+                "y": "1344",
+                "w": "222",
+                "h": "222"
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": "222",
+                "h": "222"
+            },
+            "sourceSize": {
+                "w": "222",
+                "h": "222"
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "allIcons_feature/icon_feature_0002": {
+            "frame": {
+                "x": "224",
+                "y": "1120",
+                "w": "222",
+                "h": "222"
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": "222",
+                "h": "222"
+            },
+            "sourceSize": {
+                "w": "222",
+                "h": "222"
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "allIcons_feature/icon_feature_0003": {
+            "frame": {
+                "x": "224",
+                "y": "896",
+                "w": "222",
+                "h": "222"
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": "222",
+                "h": "222"
+            },
+            "sourceSize": {
+                "w": "222",
+                "h": "222"
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "allIcons_feature/icon_feature_0004": {
+            "frame": {
+                "x": "224",
+                "y": "672",
+                "w": "222",
+                "h": "222"
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": "222",
+                "h": "222"
+            },
+            "sourceSize": {
+                "w": "222",
+                "h": "222"
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "allIcons_feature/icon_feature_0005": {
+            "frame": {
+                "x": "224",
+                "y": "448",
+                "w": "222",
+                "h": "222"
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": "222",
+                "h": "222"
+            },
+            "sourceSize": {
+                "w": "222",
+                "h": "222"
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "allIcons_feature/icon_feature_0006": {
+            "frame": {
+                "x": "224",
+                "y": "224",
+                "w": "222",
+                "h": "222"
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": "222",
+                "h": "222"
+            },
+            "sourceSize": {
+                "w": "222",
+                "h": "222"
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "allIcons_feature/icon_feature_0007": {
+            "frame": {
+                "x": "224",
+                "y": "0",
+                "w": "222",
+                "h": "222"
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": "222",
+                "h": "222"
+            },
+            "sourceSize": {
+                "w": "222",
+                "h": "222"
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "allIcons_feature/icon_feature_0008": {
+            "frame": {
+                "x": "224",
+                "y": "1792",
+                "w": "222",
+                "h": "222"
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": "222",
+                "h": "222"
+            },
+            "sourceSize": {
+                "w": "222",
+                "h": "222"
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "allIcons_feature/icon_feature_0009": {
+            "frame": {
+                "x": "0",
+                "y": "1568",
+                "w": "222",
+                "h": "222"
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": "222",
+                "h": "222"
+            },
+            "sourceSize": {
+                "w": "222",
+                "h": "222"
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "allIcons_feature/icon_feature_0010": {
+            "frame": {
+                "x": "0",
+                "y": "1344",
+                "w": "222",
+                "h": "222"
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": "222",
+                "h": "222"
+            },
+            "sourceSize": {
+                "w": "222",
+                "h": "222"
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "allIcons_feature/icon_feature_0011": {
+            "frame": {
+                "x": "0",
+                "y": "1120",
+                "w": "222",
+                "h": "222"
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": "222",
+                "h": "222"
+            },
+            "sourceSize": {
+                "w": "222",
+                "h": "222"
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "allIcons_feature/icon_feature_0012": {
+            "frame": {
+                "x": "0",
+                "y": "896",
+                "w": "222",
+                "h": "222"
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": "222",
+                "h": "222"
+            },
+            "sourceSize": {
+                "w": "222",
+                "h": "222"
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "allIcons_feature/icon_feature_0013": {
+            "frame": {
+                "x": "0",
+                "y": "672",
+                "w": "222",
+                "h": "222"
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": "222",
+                "h": "222"
+            },
+            "sourceSize": {
+                "w": "222",
+                "h": "222"
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "allIcons_feature/icon_feature_0014": {
+            "frame": {
+                "x": "0",
+                "y": "448",
+                "w": "222",
+                "h": "222"
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": "222",
+                "h": "222"
+            },
+            "sourceSize": {
+                "w": "222",
+                "h": "222"
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "allIcons_feature/icon_feature_0015": {
+            "frame": {
+                "x": "0",
+                "y": "224",
+                "w": "222",
+                "h": "222"
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": "222",
+                "h": "222"
+            },
+            "sourceSize": {
+                "w": "222",
+                "h": "222"
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "allIcons_feature/icon_feature_0016": {
+            "frame": {
+                "x": "0",
+                "y": "0",
+                "w": "222",
+                "h": "222"
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": "222",
+                "h": "222"
+            },
+            "sourceSize": {
+                "w": "222",
+                "h": "222"
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "allIcons_feature/icon_feature_0017": {
+            "frame": {
+                "x": "0",
+                "y": "1792",
+                "w": "222",
+                "h": "222"
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": "222",
+                "h": "222"
+            },
+            "sourceSize": {
+                "w": "222",
+                "h": "222"
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    },
+    "meta": {
+        "app": "http://www.codeandweb.com/texturepacker",
+        "version": "1.0",
+        "image": "allIcons_feature.png",
+        "format": "RGB888",
+        "size": {
+            "w": 512,
+            "h": 2048
+        },
+        "scale": "1",
+        "smartupdate": "$TexturePacker:SmartUpdate:670ff825af1f9ae27e1e274ef370416b:3cc23596171d46f15e3aa056dfa323a3:8d9452e8da0384041151f7efc69b4489$"
+    }
+}

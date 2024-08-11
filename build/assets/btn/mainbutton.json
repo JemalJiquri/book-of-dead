@@ -1,0 +1,280 @@
+{
+    "frames": {
+        "mainbutton/betBaner - Copy": {
+            "frame": {
+                "x": 162,
+                "y": 166,
+                "w": 160,
+                "h": 65
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 160,
+                "h": 65
+            },
+            "sourceSize": {
+                "w": 160,
+                "h": 65
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "mainbutton/betBaner": {
+            "frame": {
+                "x": 484,
+                "y": 149,
+                "w": 105,
+                "h": 64
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 105,
+                "h": 64
+            },
+            "sourceSize": {
+                "w": 105,
+                "h": 64
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "mainbutton/bettextbar": {
+            "frame": {
+                "x": 0,
+                "y": 116,
+                "w": 175,
+                "h": 48
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 175,
+                "h": 48
+            },
+            "sourceSize": {
+                "w": 175,
+                "h": 48
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "mainbutton/coinctextbar": {
+            "frame": {
+                "x": 0,
+                "y": 70,
+                "w": 212,
+                "h": 44
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 212,
+                "h": 44
+            },
+            "sourceSize": {
+                "w": 212,
+                "h": 44
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "mainbutton/credit_btn": {
+            "frame": {
+                "x": 374,
+                "y": 70,
+                "w": 145,
+                "h": 77
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 145,
+                "h": 77
+            },
+            "sourceSize": {
+                "w": 145,
+                "h": 77
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "mainbutton/infoBar": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 617,
+                "h": 68
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 617,
+                "h": 68
+            },
+            "sourceSize": {
+                "w": 617,
+                "h": 68
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "mainbutton/minus_btn": {
+            "frame": {
+                "x": 521,
+                "y": 70,
+                "w": 46,
+                "h": 56
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 46,
+                "h": 56
+            },
+            "sourceSize": {
+                "w": 46,
+                "h": 56
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "mainbutton/plus_btn": {
+            "frame": {
+                "x": 569,
+                "y": 70,
+                "w": 45,
+                "h": 56
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 45,
+                "h": 56
+            },
+            "sourceSize": {
+                "w": 45,
+                "h": 56
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "mainbutton/snallButton": {
+            "frame": {
+                "x": 324,
+                "y": 158,
+                "w": 158,
+                "h": 59
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 158,
+                "h": 59
+            },
+            "sourceSize": {
+                "w": 158,
+                "h": 59
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "mainbutton/snallButtonPressed": {
+            "frame": {
+                "x": 0,
+                "y": 166,
+                "w": 160,
+                "h": 65
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 160,
+                "h": 65
+            },
+            "sourceSize": {
+                "w": 160,
+                "h": 65
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "mainbutton/startSpinButton": {
+            "frame": {
+                "x": 214,
+                "y": 70,
+                "w": 158,
+                "h": 86
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 158,
+                "h": 86
+            },
+            "sourceSize": {
+                "w": 158,
+                "h": 86
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    },
+    "meta": {
+        "app": "http://www.codeandweb.com/texturepacker",
+        "version": "1.0",
+        "image": "mainbutton.png",
+        "format": "RGB888",
+        "size": {
+            "w": 1024,
+            "h": 256
+        },
+        "scale": "1",
+        "smartupdate": "$TexturePacker:SmartUpdate:670ff825af1f9ae27e1e274ef370416b:3cc23596171d46f15e3aa056dfa323a3:8d9452e8da0384041151f7efc69b4489$"
+    }
+}

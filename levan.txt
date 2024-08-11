@@ -1,0 +1,3 @@
+curl -i -X POST  -H "Authorization:314cb6c78a38b96f11ad37e61cbae7851003" -H "Content-Type:application/json" -d '{"txnId": "Test_v001102","playerId": "-21","gameId": "bookofdead1","betPerLines": 1,"freeSpins": 30,"currency": "USD","promoCode": "Demi1","validityDays": 3}' 'https://demo-f.betsense.ge/BSFreeSpins'
+
+
